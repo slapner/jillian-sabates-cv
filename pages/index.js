@@ -48,8 +48,8 @@ export default function Home() {
 			<Head>
 				<title>Jillian Sabates - Certified Anesthesiologist Assistant</title>
 			</Head>
-			<div className="relative py-3 sm:max-w-xl sm:mx-auto">
-				<div className="">
+			<div className="relative py-3 max-w-4xl sm:max-w-xl sm:mx-auto">
+				<div className="bg-white rounded-lg p-10">
 					<div className="max-w-md mx-auto">
 						<div className="space-y-2">
 							<h1 className="text-4xl font-bold text-gray-700">
@@ -66,9 +66,9 @@ export default function Home() {
 						<div className="divide-y divide-gray-200">
 							<div className="py-8 text-sm leading-6 space-y-4 text-gray-700 sm:text-base">
 								<p>
-									I am an extremely experienced Anesthesiologist Assistant,
-									currently serving as the Chief and Department Leader of Allied
-									Health Department
+									I am an experienced and confident Anesthesiologist Assistant,
+									currently serving as the Chief and Department Leader of The
+									Allied Health Department
 								</p>
 							</div>
 							<div className="py-8 text-sm leading-6 space-y-4 text-gray-700 sm:text-base">
